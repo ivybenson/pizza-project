@@ -3,7 +3,7 @@ Demo upload from Thinkful. Always learning something new here.
 
 ## About Me
 
-* Github Profile (https://github.com/ivybenson)
+* [Github Profile] (https://github.com/ivybenson)
 
 ## Special Thanks
 
